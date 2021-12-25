@@ -25,4 +25,5 @@ To execute the Terraform code, go to command prompt, change the directory to you
 
 ## Reference:
 > https://www.terraform.io/cli
+
 > https://registry.terraform.io/providers/hashicorp/aws/latest/docs
